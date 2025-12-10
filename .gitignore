@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Env
+.env
+.env.*.local
+
+# Cypress artifacts
+cypress/videos/
+cypress/screenshots/
+cypress/results/ # caso use mochawesome
+coverage/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
